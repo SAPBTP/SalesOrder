@@ -6,7 +6,7 @@ sap.ui.define(
         return Component.extend("sap.btp.salesorder.Component", {
             metadata: {
                 manifest: "json"
-            }
+            } 
         });
     }
 );
